@@ -1,6 +1,6 @@
 #Phân tích lưu lượng truy cập web – Nền tảng E-Learning
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZWJmMTRkNTMtZmFkNi00YmJmLWI4MDEtNzk1NTU0NjY1NWViIiwidCI6ImUyY2JlMDJjLTJkM2UtNGVjNi1hY2RkLTY2YTA3ZTlkNTBhNiIsImMiOjZ9&pageName=ReportSection">
+<iframe src="https://www.youtube.com/">
 </iframe>
 
 ## TỔNG QUAN 
