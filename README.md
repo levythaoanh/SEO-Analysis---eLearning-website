@@ -1,7 +1,6 @@
 #Phân tích lưu lượng truy cập web – Nền tảng E-Learning
 
-<iframe src="https://www.youtube.com/">
-</iframe>
+[![Title]]("https://www.youtube.com/")
 
 ## TỔNG QUAN 
 ***
